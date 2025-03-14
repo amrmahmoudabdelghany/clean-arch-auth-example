@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/gray-auth/gray-auth-core/gray-auth-core-domain/target/
+/gray-auth/gray-auth-core/gray-auth-core-usecase/target/
+/gray-auth/gray-auth-config/target/
+/gray-auth/gray-auth-infra/target/

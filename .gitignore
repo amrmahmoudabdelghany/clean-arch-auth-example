@@ -1,0 +1,5 @@
+/gray-auth-infra/target
+/gray-auth-config/target
+/gray-auth-core/gray-auth-core-domain/target
+/gray-auth-core/gray-auth-core-usecase/target
+

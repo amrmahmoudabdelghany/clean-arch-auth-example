@@ -1,0 +1,108 @@
+
+[
+{
+  "name":"io.jsonwebtoken.Claims",
+  "queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.Header",
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.Identifiable",
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.JwsHeader",
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.Jwts"
+},
+{
+"name":"io.jsonwebtoken.Jwts$SIG"
+},
+{
+"name":"io.jsonwebtoken.ProtectedHeader",
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultClaims",
+"allDeclaredFields":true,
+"queryAllDeclaredMethods":true,
+"queryAllDeclaredConstructors":true
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultClaimsBuilder",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultHeader",
+"allDeclaredFields":true,
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultJwsHeader",
+"allDeclaredFields":true,
+"queryAllDeclaredMethods":true,
+"queryAllDeclaredConstructors":true
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultJwtBuilder",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultJwtParserBuilder",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.DefaultProtectedHeader",
+"allDeclaredFields":true,
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.impl.ParameterMap",
+"allDeclaredFields":true,
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.impl.io.StandardCompressionAlgorithms",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.lang.Nameable",
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.impl.lang.ParameterReadable",
+"queryAllDeclaredMethods":true
+},
+{
+"name":"io.jsonwebtoken.impl.security.KeysBridge"
+},
+{
+"name":"io.jsonwebtoken.impl.security.StandardEncryptionAlgorithms",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.security.StandardKeyAlgorithms",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.security.StandardKeyOperations",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.impl.security.StandardSecureDigestAlgorithms",
+"methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+"name":"io.jsonwebtoken.jackson.io.JacksonDeserializer"
+},
+{
+"name":"io.jsonwebtoken.jackson.io.JacksonSerializer"
+},
+{
+"name":"io.jsonwebtoken.security.X509Accessor",
+"queryAllDeclaredMethods":true
+}]
